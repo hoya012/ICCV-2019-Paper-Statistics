@@ -30,7 +30,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 ## Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
-   - [`ICCV2019_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/ICCV-Paper-Statistics/blob/master/ICCV2019_paper_statistics_using_chrome.ipynb) --> Use website data format
+   - [`ICCV2019_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/ICCV-2019-Paper-Statistics/blob/master/ICCV2019_paper_statistics_using_chrome.ipynb) --> Use website data format
 
 ## Prerequisites
 - python3.5
