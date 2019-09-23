@@ -4,7 +4,7 @@ Statistics and Visualization of acceptance rate, main keyword of ICCV 2019 accep
 Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
 
 <p align="center">
-  <img width="600" src="/2019_iccv/keyword_cloud_title.PNG">
+  <img width="600" src="https://github.com/hoya012/ICCV-2019-Paper-Statistics/blob/master/iccv_2019/keyword_cloud.png">
 </p>
 
 ## ICCV 2019 Acceptance rate (2013~2019)
@@ -13,7 +13,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 - The acceptance rate decreased from 30% to 25%.
 
 <p align="center">
-  <img width="500" src="/2019_iccv/iccv_acceptance_rate.PNG">
+  <img width="500" src="https://github.com/hoya012/ICCV-2019-Paper-Statistics/blob/master/iccv_2019/iccv_acceptance_rate.PNG">
 </p>
 
 
@@ -24,7 +24,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
    - Image, object, detection, 3d, video, segmentation, adversarial, estimation, feature, etc..
 
 <p align="center">
-  <img width="1000" src="/2019_iccv/top_keywords_2019.png">
+  <img width="1000" src="https://github.com/hoya012/ICCV-2019-Paper-Statistics/blob/master/iccv_2019/top_keywords_2019.png">
 </p>
 
 ## Analysis and Visualization Code (Jupyter Notebook)
