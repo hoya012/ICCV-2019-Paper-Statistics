@@ -7,7 +7,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
   <img width="600" src="/2019_iccv/keyword_cloud_title.PNG">
 </p>
 
-# ICCV 2019 Acceptance rate (2013~2019)
+## ICCV 2019 Acceptance rate (2013~2019)
 
 - The total number of papers has increased significantly! (100% from 2017 to 2019!)
 - The acceptance rate decreased from 30% to 25%.
@@ -17,7 +17,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 </p>
 
 
-# ICCV 2019 Paper Keywords statistics
+## ICCV 2019 Paper Keywords statistics
 - [Accepted Paper list](http://iccv2019.thecvf.com/program/main_conference)
 
 -  Top keywords 
@@ -27,7 +27,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
   <img width="1000" src="/2019_iccv/top_keywords_2019.png">
 </p>
 
-# Analysis and Visualization Code (Jupyter Notebook)
+## Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
    - [`ICCV2019_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/ICCV-Paper-Statistics/blob/master/ICCV2019_paper_statistics_using_chrome.ipynb) --> Use website data format
